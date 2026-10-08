@@ -15,7 +15,7 @@ Python (file I/O, dictionaries)
 - Prints an alert once a user's attempts reach 3 or more
 
 ## What I learned
-How to parse log data programmatically, track per-user state with dictionaries, and design a simple rule-based detection system — a basic version of what a SIEM does at scale.
+How to parse log data programmatically, track per-user state with dictionaries, and design a simple rule-based detection system a basic version of what a SIEM does at scale.
 
 ## Possible improvements
 Add real timestamps, write alerts to a separate log file, support configurable thresholds. 
